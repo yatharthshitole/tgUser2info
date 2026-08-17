@@ -1,8 +1,10 @@
-"newkey": {
-  "label": "Friend Name",
-  "active": true,
-  "createdAt": "2026-08-17T00:00:00.000Z",
-  "totalRequests": 0,
-  "lastUsed": null,
-  "dailyUsage": {}
+{
+  "test": {
+    "label": "Test Key",
+    "active": true,
+    "createdAt": "2026-08-17T00:00:00.000Z",
+    "totalRequests": 0,
+    "lastUsed": null,
+    "dailyUsage": {}
+  }
 }
